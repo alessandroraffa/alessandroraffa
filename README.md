@@ -25,12 +25,6 @@
 
 - **Roles in MENA Region:** My career has also included key positions as a contact point for biotech companies in North Africa and the Middle East, broadening my understanding of international business dynamics and multicultural communication in the tech sector.
 
-#### Outside of Coding
-
-- 👨‍👩‍👧 Striving to be a good husband and father, I'm constantly learning and growing through my daily experiences with my family.
-- 🎵 Passionate about music, biking, kayaking, and cooking.
-- 📚 Reader and documentary watcher, particularly drawn to technology and suspense narratives.
-
 #### Let's Connect
 
 Feel free to explore my projects and reach out for collaborations or discussions on software and technology.
