@@ -2,21 +2,21 @@
 
 ### Quick Facts About Me
 
-**📍 Location:** Hailing from the beautiful Palermo, Sicily, I've enjoyed a career spanning several Italian cities, along with some international escapades.
-   
+**📍 Location:** Hailing from the beautiful Palermo, Sicily, my career spans several Italian cities and includes international escapades.
+
 **💼 Career:** From crafting static HTML pages in 2001 to my current role as CIO at Infobiotech, I've navigated various roles and challenges in the software and technology sectors.
 
 **👨‍👩‍👧 Family:** Striving to be a good husband and father, I find daily learning and growth in my family experiences.
 
 **🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, and technology.
 
-**📚 Reading and Watching:** An avid reader and documentary enthusiast, I'm particularly drawn to narratives about technology and suspense.
+**📚 Reading and Watching:** As a reader and documentary enthusiast, I'm particularly drawn to narratives about technology and suspense.
 
-**🌟 Problem-Solving:** I have a deep fascination with solving complex problems and staying ahead in the constantly evolving landscape of software and technology.
+**🌟 Problem-Solving:** I am highly engaged in solving complex problems and staying ahead in the constantly evolving landscape of software and technology.
 
 **🤝 Collaboration:** I firmly believe in the power of collaboration and knowledge sharing.
 
-**🌱 Growth:** I am committed to continuous personal and professional development and advocate for empowering others to pursue the same.
+**🌱 Growth:** Committed to continuous personal and professional development, I also support others in their growth journeys.
 
 ### Professional Overview
 
@@ -38,6 +38,179 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - LinkedIn: [Alessandro Raffa](https://www.linkedin.com/in/alessandroraffa79/)
 - X / Twitter: [@alessandroraffa](https://twitter.com/alessandroraffa)
+- Email: [contact@alessandroraffa.eu](mailto:contact@alessandroraffa.eu)
+
+### Technology Stack
+
+- **Operating Systems:** 
+  - macOS (my desktop development environment)
+  - Ubuntu Server (server environments)
+  - Android (mobile platform development)
+- **Shells:**
+  - Bash (Unix shell scripting)
+  - Zsh (enhanced shell experience)
+- **OS Package Managers:**
+  - Homebrew (package manager for macOS)
+  - APT (package management for Linux)
+- **Text Editors:**
+  - nano (simple, command-line text editing)
+- **Runtime Environments:**
+  - Node.js (server-side JavaScript runtime)
+  - ts-node (TypeScript execution environment)
+- **Markup and Front-End Languages:**
+  - Markdown (formatted and structured text)
+  - HTML (standard web content markup language)
+  - CSS (style sheet language for web design)
+- **Programming Languages:**
+  - ECMAScript (core language for web development)
+  - TypeScript (typed superset of JavaScript)
+- **IDEs:**
+  - Visual Studio Code (versatile code editor for various programming languages)
+- **Coding Assistance Tools:**
+  - GitHub Copilot (AI-powered code completion tool)
+- **Package Managers:**
+  - npm (package manager for JavaScript)
+  - Yarn (fast, reliable, and secure dependency management)
+- **Version Control Systems:**
+  - Git (distributed version control system)
+- **Back-End Frameworks:**
+  - Express.js (web application framework for Node.js)
+  - Next.js (React framework for server-rendered apps)
+- **API Development and Testing Tools:**
+  - Swagger (API design and documentation)
+  - Postman (API testing and development)
+- **Front-End Frameworks:**
+  - React (library for building user interfaces)
+  - React Native (framework for native mobile apps)
+- **Web Development Tools:**
+  - Chrome DevTools (web authoring and debugging tool)
+  - Firefox Developer Tools (tools for web development in Firefox)
+- **Desktop Frameworks:**
+  - Electron (framework for creating native applications with web technologies)
+- **UI Kits:**
+  - Bootstrap (front-end framework for web development)
+  - Material UI (React UI framework)
+- **Databases:**
+  - Firestore (NoSQL database for mobile and web application development)
+  - MongoDB (NoSQL database)
+- **State Management Libraries:**
+  - Redux (state management for JavaScript applications)
+  - Redux Toolkit (toolset for efficient Redux development)
+- **Authentication & Security:**
+  - Firebase Authentication (identity and access for web and mobile apps)
+  - JWT (JSON Web Tokens for secure data transmission)
+- **Web Server Management:**
+  - Plesk (web hosting control panel)
+  - cPanel (web hosting control panel)
+  - Apache (web server software)
+  - Nginx (high-performance web server)
+- **Web Infrastructure & Networking:**
+  - Domain name registration and management (for web presence)
+  - DNS (Domain Name System management)
+  - SSL (Secure Sockets Layer for web security)
+- **Cloud Platforms:**
+  - Google Cloud Platform (suite of cloud computing services),
+  - Firebase (platform for app development)
+- **Containerization:**
+  - Docker (platform for developing, shipping, and running applications)
+- **Build Tools:**
+  - Webpack (module bundler)
+  - Babel (JavaScript compiler)
+  - Rollup (module bundler)
+- **Compilers:**
+  - TypeScript (compiles to JavaScript)
+- **Testing Frameworks:**
+  - Jest (JavaScript testing)
+  - ts-jest (TypeScript testing with Jest)
+- **CI/CD Platforms:**
+  - GitHub Actions (CI/CD and automation)
+- **Code Quality & Linting:**
+  - ESLint (linting utility for ECMAScript)
+  - Prettier (code formatter)
+  - husky (Git hooks)
+  - commitlint (lint commit messages)
+  - conventional commits (for standardizing commit messages)
+  - semantic-release (automated version management and package publishing)
+  - semantic versioning (versioning system)
+- **Productivity & Collaboration:**
+  - GitHub (software development platform)
+  - Google Workspace (suite of cloud computing, productivity, and collaboration tools)
+  - Google Meet (video-communication service)
+  - WhatsApp (messaging)
+  - Telegram (cloud-based instant messaging)
+  - Discord (community platform)
+  - Microsoft Teams (collaboration platform)
+  - Skype (telecommunications application)
+  - Slack (business communication platform)
+- **Production Environments:**
+  - VPS (Virtual Private Server)
+  - VM (Virtual Machine on Google Cloud Compute Engine) with PM2 (process manager for Node.js applications)
+  - Heroku (cloud platform for hosting applications)
+  - Firebase Hosting (web hosting service)
+- **Automation Tools:**
+  - Puppeteer (for web scraping and testing)
+- **Machine Learning and Data Science Tools:**
+  - Pinecone (vector database for machine learning)
+- **Generative AI and AI Technologies:** 
+  - OpenAI API (GPT-4 and Embeddings for advanced language processing and applications)
+  - Midjourney (AI-driven image generation and design conceptualization)
+  - ChatGPT (conversational AI applications)
+  - DALL-E (AI-driven image creation and manipulation)
+
+#### Previously Used
+
+- **Operating Systems:**
+  - Windows (desktop and server environments)
+  - MS-DOS (legacy operating system)
+- **Markup and Front-End Languages:**
+  - LESS (dynamic style sheet language)
+  - Sass (preprocessor scripting language)
+- **Programming Languages:**
+  - PHP (server-side scripting language)
+  - ASP (Microsoft's server-side script engine)
+  - VBScript (Active Scripting language)
+  - Turbo Pascal (software development system)
+  - GW-BASIC (beginner's all-purpose symbolic instruction code)
+- **IDEs:**
+  - NetBeans (integrated development environment)
+  - Macromedia Dreamweaver (web development tool)
+  - EditPlus (text editor)
+  - Atom (text and source code editor)
+  - Microsoft FrontPage (WYSIWYG HTML editor and website administration tool)
+  - Android Studio (official IDE for Android development)
+- **Package Managers:**
+  - composer (dependency manager for PHP)
+- **Version Control Systems:**
+  - CVS (Concurrent Versions System)
+  - Subversion (software versioning and revision control system)
+- **Back-End Frameworks:**
+  - SlimPHP (micro framework for PHP)
+  - Laravel (PHP web application framework)
+  - CodeIgniter (PHP framework)
+  - Zend Framework (PHP framework)
+  - CakePHP (rapid development framework for PHP)
+  - Symfony (PHP web application framework)
+  - Yii (high-performance PHP framework)
+- **Front-End Frameworks:**
+  - jQuery (fast, small, feature-rich JavaScript library)
+  - Prototype.js (JavaScript Framework for web development)
+- **Databases:**
+  - MySQL (relational database management system)
+  - Oracle (multi-model database management system)
+  - Microsoft Access (database management system from Microsoft)
+  - SQLite (C library that provides a lightweight disk-based database)
+  - DB2 (family of data management products from IBM)
+- **Database Management Tools:**
+  - phpMyAdmin (free software tool for administering MySQL over the Web)
+- **Virtualization:**
+  - VirtualBox (free and open-source hosted hypervisor)
+  - VMware (cloud computing and virtualization software)
+  - Parallels (virtualization technology)
+- **Code Quality & Linting:**
+  - PHP-CS-Fixer (tool for automatically fixing PHP coding standards), PHP_CodeSniffer (script that detects violations of a defined coding standard)
+- **Productivity & Collaboration:**
+  - Mantis Bug Tracker (web-based bug tracking system)
+  - Asana (web and mobile application designed to help teams organize, track, and manage their work)
 
 ### Technological and Professional Journey: 1988-Present
 
