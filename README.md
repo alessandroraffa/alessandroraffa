@@ -24,9 +24,9 @@
 
 - **Founder & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
-- **IT Administrator & Web Developer:** In these roles, I was deeply involved in web design, analysis, strategy, and development. I specialized on enhancing web standard, search engine optimization, and social network integration. My responsibilities also extended to network and server administration.
+- **IT Administrator & Web Developer:** n these roles, I was deeply involved in web design, analysis, strategy, and development. I specialized in enhancing web standards, search engine optimization, and social network integration. My responsibilities also extended to network and server administration.
 
-- **System Integrator & Technical Specialist:** My experience as a system integrator allowed me to combine various technologies and platforms to create cohesive and efficient systems. As a technical specialist, I always focused on emerging web technologies, aiming to high standards in software and web development.
+- **System Integrator & Technical Specialist:** My experience as a system integrator allowed me to combine various technologies and platforms to create cohesive and efficient systems. As a technical specialist, I always focused on emerging web technologies, aiming for high standards in software and web development.
 
 - **Frontend Developer & Analyst-Developer:** I developed expertise in frontend development, working on various projects that demanded a strong grasp of technical details. As an analyst-developer, I balanced technical writing with a deep understanding of software architectures, contributing significantly to project analysis and documentation.
 
@@ -34,7 +34,7 @@
 
 ### Let's Connect
 
-Feel free to explore my projects and reach out for collaborations or discussions on software and technology.
+Feel free to reach out for collaborations or discussions on software and technology.
 
 - LinkedIn: [Alessandro Raffa](https://www.linkedin.com/in/alessandroraffa79/)
 - X / Twitter: [@alessandroraffa](https://twitter.com/alessandroraffa)
@@ -85,4 +85,4 @@ Feel free to explore my projects and reach out for collaborations or discussions
 
 - **TypeScript and Mono-repos (Early 2020s-Present):** I widely adopted TypeScript and embraced the use of mono-repositories to enhance the maintainability of my code and to reduce errors, especially in large-scale projects.
 
-- **Generative AI (Early 2020s-Present):** I am exploring the potential of generative AI for innovation and creative problem-solving in software development 
+- **Generative AI (Early 2020s-Present):** I am exploring the potential of generative AI for innovation and creative problem-solving in software development and for the development of new products.
