@@ -8,7 +8,7 @@
 
 **👨‍👩‍👧 Family:** Striving to be a good husband and father, I find daily learning and growth in my family experiences.
 
-**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, and technology.
+**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, astronomy and technology.
 
 **📚 Reading and Watching:** As a reader and documentary enthusiast, I'm particularly drawn to narratives about technology and suspense.
 
@@ -22,13 +22,13 @@
 
 - **Infobiotech (CIO & Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
 
-- **Founder & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
+- **Founder, CEO & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
-- **IT Administrator & Web Developer:** n these roles, I was deeply involved in web design, analysis, strategy, and development. I specialized in enhancing web standards, search engine optimization, and social network integration. My responsibilities also extended to network and server administration.
+- **Developer & IT Administrator:** in these roles, I was deeply involved in software engineering, analysis, design, strategy, and development. I developed expertise in production-grade/enterprise-level software development, working on various projects that demanded a strong grasp of technical details. My responsibilities also extended to network and server administration.
 
 - **System Integrator & Technical Specialist:** My experience as a system integrator allowed me to combine various technologies and platforms to create cohesive and efficient systems. As a technical specialist, I always focused on emerging web technologies, aiming for high standards in software and web development.
 
-- **Frontend Developer & Analyst-Developer:** I developed expertise in frontend development, working on various projects that demanded a strong grasp of technical details. As an analyst-developer, I balanced technical writing with a deep understanding of software architectures, contributing significantly to project analysis and documentation.
+- **Analyst-Developer:** I balanced technical writing with a deep understanding of software architectures, contributing significantly to project analysis and documentation.
 
 - **Roles in MENA Region:** My career has also included key positions as a contact point for biotech companies in North Africa and the Middle East, broadening my understanding of international business dynamics and multicultural communication in the tech sector.
 
@@ -42,7 +42,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 ### Technology Stack
 
-- **Operating Systems:** 
+- **Operating Systems:**
   - macOS (my desktop development environment)
   - Ubuntu Server (server environments)
   - Android (mobile platform development)
@@ -62,15 +62,15 @@ Feel free to reach out for collaborations or discussions on software and technol
   - HTML (standard web content markup language)
   - CSS (style sheet language for web design)
 - **Programming Languages:**
-  - ECMAScript (core language for web development)
   - TypeScript (typed superset of JavaScript)
+  - ECMAScript (core language for web development)
 - **IDEs:**
   - Visual Studio Code (versatile code editor for various programming languages)
 - **Coding Assistance Tools:**
   - GitHub Copilot (AI-powered code completion tool)
 - **Package Managers:**
-  - npm (package manager for JavaScript)
   - Yarn (fast, reliable, and secure dependency management)
+  - npm (package manager for JavaScript)
 - **Version Control Systems:**
   - Git (distributed version control system)
 - **Back-End Frameworks:**
@@ -88,14 +88,13 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **Desktop Frameworks:**
   - Electron (framework for creating native applications with web technologies)
 - **UI Kits:**
+  - Mantine UI (React components and hooks)
   - Bootstrap (front-end framework for web development)
-  - Material UI (React UI framework)
 - **Databases:**
-  - Firestore (NoSQL database for mobile and web application development)
   - MongoDB (NoSQL database)
+  - Firestore (NoSQL database for mobile and web application development)
 - **State Management Libraries:**
-  - Redux (state management for JavaScript applications)
-  - Redux Toolkit (toolset for efficient Redux development)
+  - Redux and Redux Toolkit (state management for JavaScript applications)
 - **Authentication & Security:**
   - Firebase Authentication (identity and access for web and mobile apps)
   - JWT (JSON Web Tokens for secure data transmission)
@@ -110,6 +109,7 @@ Feel free to reach out for collaborations or discussions on software and technol
   - SSL (Secure Sockets Layer for web security)
 - **Cloud Platforms:**
   - Google Cloud Platform (suite of cloud computing services),
+  - Atlas MongoDB (cloud database service)
   - Firebase (platform for app development)
 - **Containerization:**
   - Docker (platform for developing, shipping, and running applications)
@@ -140,8 +140,8 @@ Feel free to reach out for collaborations or discussions on software and technol
   - Telegram (cloud-based instant messaging)
   - Discord (community platform)
   - Microsoft Teams (collaboration platform)
-  - Skype (telecommunications application)
   - Slack (business communication platform)
+  - Skype (telecommunications application)
 - **Production Environments:**
   - VPS (Virtual Private Server)
   - VM (Virtual Machine on Google Cloud Compute Engine) with PM2 (process manager for Node.js applications)
@@ -255,6 +255,8 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **React and React Native (2016-Present):** Since 2016, I have been immersed in modern front-end development using React for dynamic, responsive user interfaces and React Native for cross-platform mobile applications.
 
 - **IoT and WebSocket (2019-Present):** I started exploring the Internet of Things (IoT) and WebSocket technologies, enabling the creation of real-time, bidirectional, and efficient communication between servers and clients.
+
+- **CIO (2020-Present):** <!-- #TODO --> ... setting the ... vision and strategy for the company, ensuring that our software solutions align with our business goals. I oversee the development of our software products, ensuring that they are robust, scalable, and secure.
 
 - **TypeScript and Mono-repos (Early 2020s-Present):** I widely adopted TypeScript and embraced the use of mono-repositories to enhance the maintainability of my code and to reduce errors, especially in large-scale projects.
 
