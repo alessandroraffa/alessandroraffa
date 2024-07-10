@@ -2,13 +2,13 @@
 
 ### Quick Facts About Me
 
-**📍 Location:** Hailing from the beautiful Palermo, Sicily, my career spans several Italian cities and includes international escapades.
+**📍 Location:** Hailing from the beautiful Palermo, Sicily, my career spans several Italian cities and includes international escapades in Europe, USA, North Africa and the Middle East.
 
-**💼 Career:** From crafting static HTML pages in 2001 to my current role as CIO at Infobiotech, I've navigated various roles and challenges in the software and technology sectors.
+**💼 Career:** From crafting static HTML pages in 2001 to my current role as Software CTO at Infobiotech, I've navigated various roles and challenges in the software and technology sectors.
 
 **👨‍👩‍👧 Family:** Striving to be a good husband and father, I find daily learning and growth in my family experiences.
 
-**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, astronomy and technology.
+**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, astronomy and pf course technology and coding.
 
 **📚 Reading and Watching:** As a reader and documentary enthusiast, I'm particularly drawn to narratives about technology and suspense.
 
@@ -20,7 +20,7 @@
 
 ### Professional Overview
 
-- **Infobiotech (CIO & Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
+- **Infobiotech (Software CTO & Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
 
 - **Founder, CEO & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
@@ -218,7 +218,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **GW-BASIC (1988):** This intuitive programming language was my introduction to coding. It was like playing with Lego blocks, where each line of code was a building block towards creating something new and functional. Among my early projects were a minefield-like game and a basic animation featuring the "Ciao" mascot of the 1990 World Cup, animating a soccer ball, along with a substantial amount of experimental code. These early coding experiences were pivotal in sparking my interest in logical problem-solving and software development.
 
-- **Turbo Pascal (1989):** This was my introduction to structured programming and the fundamentals of software design. Among my projects was a simple contacts application, which marked my first steps into understanding user inputs, data structures, and data persistence on disk.
+- **Turbo Pascal (1989):** This was my introduction to structured programming and the fundamentals of software design. Among my projects was a simple contacts application, which marked my first steps into understanding user inputs, data structures, and data persistence on disk. My imagination, as a 10-year-old, far from knowing the concept of artificial intelligence, led me to create a simple conversation simulation program, where the computer would respond to user inputs with predefined responses. This experience laid the foundation for my future work in software development and database management.
 
 - **Windows 3.1 (1991):** This shift represented a significant leap into the world of graphical user interfaces. I vividly remember the after-school sessions in my middle school's labs. There, our music teacher introduced us to using the computer, programming basic beeps in GW-BASIC, adjusting frequencies, durations, and pauses to match simple music sheets. These sessions were more than just about learning; they were about sharing and expanding knowledge. I embraced the opportunity to assist the teacher, helping my classmates understand the basics of programming. This experience not only enriched my skills but also deepened my appreciation for the collaborative nature of technology and its creative applications.
 
@@ -226,13 +226,13 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **Pentium, Windows 2000, and Home Dial-Up Internet (2000):** A significant upgrade in my technological journey was acquiring my first "modern" personal computer - a Pentium 4 with 256 MB of RAM, a 20 GB hard drive, and a 56K modem. This setup marked the beginning of my journey into home Internet access, greatly expanding my opportunities for learning and web exploration.
 
-- **Text Editors and IDEs (2000-Present):** My journey with software development tools began with the simplicity of Windows Notepad. It was here that I learned the fundamentals of coding by directly interacting with plain text files. Soon after, I progressed to Microsoft FrontPage, which provided a more integrated environment to inspect HTML code and visually link the markup with its actual web page result. Over the years, my toolkit evolved to include more advanced editors and IDEs such as EditPlus, Macromedia Dreamweaver, and NetBeans, each offering enhanced features and a more sophisticated development experience. Later, I embraced Atom for its modern interface and open-source community. Currently, I use Visual Studio Code (VSCode), appreciating its versatility, extensive plugin ecosystem, and robust support for a wide range of programming languages and frameworks.
+- **Text Editors and IDEs (2000-Present):** My journey with software development tools began with the simplicity of Windows Notepad. It was here that I learned the fundamentals of coding by directly interacting with plain text files. Soon after, I progressed to Microsoft FrontPage, which provided a more integrated environment to inspect HTML code and visually link the markup with its actual web page result. Over the years, my toolkit evolved to include more advanced editors and IDEs such as EditPlus, Macromedia Dreamweaver, Eclipse and NetBeans each offering enhanced features and a more sophisticated development experience. Later, I embraced Atom for its modern interface and open-source community. Currently, I use Visual Studio Code (VSCode), appreciating its versatility, extensive plugin ecosystem, and robust support for a wide range of programming languages, frameworks and tools.
 
 - **HTML, CSS and JavaScript (2000-Present):** My entry point into web development. I started crafting static web pages, incorporating basic styles and simple animation scripts. During this time, I undertook a project for my grandmother's hair salon, which became my first official web development job, without any charge of course.
 
 - **Web Developer (2001-Present):** I was hired by a web agency, and my first day in the tech industry coincided with the events of September 11, 2001. I remember the overwhelming internet traffic and slow connectivity on that day vividly. My first role involved updating and fixing hundreds of static web pages for various businesses, including the Palermo Airport's website and those in the wine and travel sectors of Sicily. This experience taught me the value of teamwork, the intricacies of handling legacy code, and the importance of clean coding practices and thorough documentation. Working on these diverse projects not only honed my technical skills but also deepened my understanding of the impact of external events on digital infrastructures.
 
-- **VBScript, ASP3, and Microsoft Access (2002):** I transitioned to dynamic web development using VBScript and ASP3. This phase of my career enhanced the interactivity and responsiveness of the websites I worked on. I also began utilizing Microsoft Access as a database management system for web applications, broadening my skills in server-side scripting and database management.
+- **VBScript, ASP3, and Microsoft Access (2002-2003):** I transitioned to dynamic web development using VBScript and ASP3. This phase of my career enhanced the interactivity and responsiveness of the websites I worked on. I also began utilizing Microsoft Access as a database management system for web applications, broadening my skills in server-side scripting and database management.
 
 - **PHP and MySQL (2003-2018):** During this period, I developed various sophisticated, data-driven web applications. This included a notable web application for standardizing the diagnosis of Celiac Disease, which was my first project intended for a worldwide audience. This marked a significant milestone in my professional journey, expanding my reach and impact in the field of web development.
 
@@ -256,7 +256,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **IoT and WebSocket (2019-Present):** I started exploring the Internet of Things (IoT) and WebSocket technologies, enabling the creation of real-time, bidirectional, and efficient communication between servers and clients.
 
-- **CIO (2020-Present):** <!-- #TODO --> ... setting the ... vision and strategy for the company, ensuring that our software solutions align with our business goals. I oversee the development of our software products, ensuring that they are robust, scalable, and secure.
+- **Software CTO and Project Manager (2020-Present):** As the Software CTO at Infobiotech, I am also responsible for setting the vision and strategy for the company, ensuring that our software solutions align with our business goals. As a Project Manager of a small team I oversee the development of our software products, ensuring that they are robust, scalable, and secure.
 
 - **TypeScript and Mono-repos (Early 2020s-Present):** I widely adopted TypeScript and embraced the use of mono-repositories to enhance the maintainability of my code and to reduce errors, especially in large-scale projects.
 
