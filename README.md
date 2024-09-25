@@ -20,7 +20,7 @@
 
 ### Professional Overview
 
-- **Infobiotech (Software CTO & Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
+- **Infobiotech (Software CTO & Co-Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
 
 - **Founder, CEO & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
@@ -40,11 +40,11 @@ Feel free to reach out for collaborations or discussions on software and technol
 - X / Twitter: [@alessandroraffa](https://twitter.com/alessandroraffa)
 - Email: [contact@alessandroraffa.eu](mailto:contact@alessandroraffa.eu)
 
-### Work Experiences
+### Work Experience
 
 #### Infobiotech (Palermo, Sicily, Italy), February 2014 - Present
 
-*Software CTO, Chief Software Engineer, Project Manager, Senior Software Developer, Co-founder*
+*Software CTO, Chief Software Engineer, Project Manager, Senior Software Developer, Co-Founder*
 
 - Co-founded the company and set the vision and strategy for software solutions
 - Leading software development projects and managing technical teams
@@ -98,7 +98,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 - Collaborated with design and backend teams
 - Ensured cross-browser compatibility and performance
 
-#### Galyleo (Rome, Italy), October 2003 - January 2006 (2 yrs 4 mos)
+#### Galyleo S.r.l. ⇒ Visiant Galyleo S.p.A. (acquired by Indra) (Rome, Italy), October 2003 - January 2006 (2 yrs 4 mos)
 
 *Analyst-Developer, Technical Writer and PM Assistant*
 
@@ -179,6 +179,7 @@ Feel free to reach out for collaborations or discussions on software and technol
   - Firestore (NoSQL database for mobile and web application development)
 - **State Management Libraries:**
   - Redux and Redux Toolkit (state management for JavaScript applications)
+  - Zustand (simple and fast global state manager)
 - **Authentication & Security:**
   - Firebase Authentication (identity and access for web and mobile apps)
   - JWT (JSON Web Tokens for secure data transmission)
