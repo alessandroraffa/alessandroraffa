@@ -4,13 +4,13 @@
 
 **📍 Location:** Hailing from the beautiful Palermo, Sicily, my career spans several Italian cities and includes international escapades in Europe, USA, North Africa and the Middle East.
 
-**💼 Career:** From crafting static HTML pages in 2001 to my current role as Software CTO at Infobiotech, I've navigated various roles and challenges in the software and technology sectors.
+**💼 Career:** From crafting static HTML pages in 2001 to my former role as Infobiotech's co-founder and CIO, I've navigated various roles and challenges in the software and technology sectors.
 
-**👨‍👩‍👧 Family:** Striving to be a good husband and father, I find daily learning and growth in my family experiences.
+**👨‍👩‍👧 Family:** Striving to be a good husband and father, son and brother, I find daily learning and growth in my family experiences.
 
-**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, astronomy and pf course technology and coding.
+**🎵 Interests:** My passions include music, biking, playing acoustic guitar, kayaking, cooking, travel, science, astronomy and of course technology and coding.
 
-**📚 Reading and Watching:** As a reader and documentary enthusiast, I'm particularly drawn to narratives about technology and suspense.
+**📚 Reading and Watching:** As a reader and documentary enthusiast, I'm particularly drawn to narratives about technology, science and suspense.
 
 **🌟 Problem-Solving:** I am highly engaged in solving complex problems and staying ahead in the constantly evolving landscape of software and technology.
 
@@ -20,7 +20,7 @@
 
 ### Professional Overview
 
-- **Infobiotech (Software CTO & Co-Founder):** Guiding Infobiotech through the evolving landscape of software, my role has been to set a foundation for innovation and growth. As a founder, I initiated this journey, and now, as part of a dynamic team, we collectively steer our company towards new horizons. My focus is on leveraging software engineering to drive groundbreaking research, development and manufacturing.
+- **Infobiotech (Software CTO & Co-Founder):** Guided Infobiotech through the evolving landscape of software, my role was to set a foundation for software innovation and growth. As a founder, I initiated the journey, then, as part of a dynamic team, we collectively steered the company towards new horizons. My focus was on leveraging software engineering to drive groundbreaking research, development and manufacturing.
 
 - **Founder, CEO & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
@@ -42,26 +42,33 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 ### Work Experience
 
-#### Infobiotech (Palermo, Sicily, Italy), February 2014 - Present
+#### Self-employed IT Consultat and Software Architect, Ganuary 2025 - current
 
-*Software CTO, Chief Software Engineer, Project Manager, Senior Software Developer, Co-Founder*
-
-- Co-founded the company and set the vision and strategy for software solutions
 - Leading software development projects and managing technical teams
 - Overseeing software architecture, system design, and innovative technology implementations
 - Implementing innovative technologies and solutions for clients
 - Ensuring adherence to industry standards and best practices
-- Developed solutions for scientific, agri-food, wine, and molecular biology fields
-- Managing web and mobile applications
-- Implementing IoT, cloud, and API services
-- Designing scalable software solutions
-- Collaborating with clients to understand requirements and deliver custom solutions
-- Creating algorithms for the analysis of analog and digital signals
-- Managing web-based platforms for IoT device management
-- Enhancing data analysis algorithms and web applications for scientific use
-- Collaborating in the design and development of mechanical and electronic prototypes
-- Collaborating in the development of custom firmware for embedded microcontroller systems and IoT devices
 - Generative AI advocate for the implementation of innovative software solutions
+
+#### Infobiotech (Palermo, Sicily, Italy), February 2014 - December 2024 (10 yrs)
+
+*Software CTO, CIO, Chief Software Engineer, Project Manager, Senior Software Developer, Co-Founder*
+
+- Co-founded the company and set the vision and strategy for software solutions  
+- Led software development projects and managed technical teams  
+- Oversaw software architecture, system design, and innovative technology implementations  
+- Implemented innovative technologies and solutions for clients
+- Ensured adherence to industry standards and best practices  
+- Developed solutions for scientific, agri-food, wine, and molecular biology fields  
+- Managed web and mobile applications
+- Implemented IoT, cloud, and API services
+- Designed scalable software solutions
+- Collaborated with clients to understand requirements and deliver custom solutions  
+- Created algorithms for the analysis of analog and digital signals  
+- Managed web-based platforms for IoT device management  
+- Enhanced data analysis algorithms and web applications for scientific use  
+- Collaborated in the design and development of mechanical and electronic prototypes  
+- Contributed to the development of custom firmware for embedded microcontroller systems and IoT devices 
 
 ##### Key Projects
 
@@ -158,7 +165,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **Version Control Systems:**
   - Git (distributed version control system)
 - **Back-End Frameworks:**
-  - Express.js (web application framework for Node.js)
+  - NestJS and Express.js (web application frameworks for Node.js)
   - Next.js (React framework for server-rendered apps)
 - **API Development and Testing Tools:**
   - Swagger (API design and documentation)
@@ -175,13 +182,14 @@ Feel free to reach out for collaborations or discussions on software and technol
   - Mantine UI (React components and hooks)
   - Bootstrap (front-end framework for web development)
 - **Databases:**
-  - MongoDB (NoSQL database)
+  - PostgreSQL
   - Firestore (NoSQL database for mobile and web application development)
+  - MongoDB (NoSQL database)
 - **State Management Libraries:**
-  - Redux and Redux Toolkit (state management for JavaScript applications)
   - Zustand (simple and fast global state manager)
+  - Redux and Redux Toolkit (state management for JavaScript applications)
 - **Authentication & Security:**
-  - Firebase Authentication (identity and access for web and mobile apps)
+  - Auth0, Kinde and Firebase Authentication (identity and access for web and mobile apps)
   - JWT (JSON Web Tokens for secure data transmission)
 - **Web Server Management:**
   - Plesk (web hosting control panel)
@@ -194,8 +202,8 @@ Feel free to reach out for collaborations or discussions on software and technol
   - SSL (Secure Sockets Layer for web security)
 - **Cloud Platforms:**
   - Google Cloud Platform (suite of cloud computing services),
-  - Atlas MongoDB (cloud database service)
   - Firebase (platform for app development)
+  - Atlas MongoDB (cloud database service)
 - **Containerization:**
   - Docker (platform for developing, shipping, and running applications)
 - **Build Tools:**
@@ -234,16 +242,17 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **Automation Tools:**
   - Puppeteer (for web scraping and testing)
 - **Machine Learning and Data Science Tools:**
-  - Pinecone (vector database for machine learning)
+  - Pinecone and Vectra (vector database for machine learning)
+  - Ollama
 - **Generative AI and AI Technologies:**
-  - OpenAI API (GPT-4 and Embeddings for advanced language processing and applications)
-  - Midjourney (AI-driven image generation and design conceptualization)
-  - ChatGPT (conversational AI applications)
+  - OpenAI API (GPT and Embeddings for advanced language processing and applications)
+  - Anthropic API
+  - Midjourney, FLUX 1.1 Pro, Ideogram, DALL-E (AI-driven image generation and design conceptualization)
+  - ChatGPT, Claude.ai (conversational AI applications)
   - Perplexity (AI-driven text generation and search engine)
-  - DALL-E (AI-driven image creation and manipulation)
   - Suno (AI-driven music composition and generation)
 
-#### Previous Stack
+#### Previous/Legacy Stack
 
 - **Operating Systems:**
   - Windows (desktop and server environments)
@@ -347,7 +356,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **IoT and WebSocket (2019-Present):** I started exploring the Internet of Things (IoT) and WebSocket technologies, enabling the creation of real-time, bidirectional, and efficient communication between servers and clients.
 
-- **Software CTO and Project Manager (2020-Present):** As the Software CTO at Infobiotech, I am also responsible for setting the vision and strategy for the company, ensuring that our software solutions align with our business goals. As a Project Manager of a small team I oversee the development of our software products, ensuring that they are robust, scalable, and secure.
+- **Software CTO and Project Manager (2020-2024):** As the Software CTO at Infobiotech, I was also responsible for setting the software vision and strategy for the company, ensuring that solutions aligned with business goals. As a Project Manager of a small team I led the development of software products, ensuring that they were robust, scalable, and secure.
 
 - **TypeScript and Mono-repos (Early 2020s-Present):** I widely adopted TypeScript and embraced the use of mono-repositories to enhance the maintainability of my code and to reduce errors, especially in large-scale projects.
 
