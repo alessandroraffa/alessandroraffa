@@ -76,6 +76,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **ENOBIT**: Established blockchain and IoT-based infrastructure for wine industry traceability. Designed and implemented the IoT and cloud infrastructure for tracking the wine production chain.
 - **PKU-Smart-Sensor**: Created a Point-of-Care system for monitoring phenylalanine levels in PKU patients. Developed the prototype of the React Native app for home-testing of phenylalanine levels.
 - **SICILYSEEDS**: Advanced the use of edible wild plants from Sicily. Developed the IoT platform and application for controlling the micro growing chamber.
+- **SaVeGraINPuglia**: Conservation project preserving and valorizing traditional legume and cereal varieties in Puglia, Italy.
 
 #### Enbiotech (Palermo, Sicily, Italy), 2010 - 2016 (6 yrs)
 
