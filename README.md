@@ -73,8 +73,6 @@ Feel free to reach out for collaborations or discussions on software and technol
 ##### Key Projects
 
 - **ResilIO**: Digital technologies for regional environmental control and resilience. Worked on the Data Hub component and IoT integration to enhance environmental data acquisition and analysis.
-- **S.M.a.R.T.**: Monitoring of air quality in museums to preserve artworks. Helped in the design and development of real-time air quality monitoring and control system for museum environments.
-- **AGREED**: Innovated eco-friendly pest control for Southern Italy's agriculture. Developed the IoT platform for continuous data flow and sustainable infection hotspot treatment.
 - **ENOBIT**: Established blockchain and IoT-based infrastructure for wine industry traceability. Designed and implemented the IoT and cloud infrastructure for tracking the wine production chain.
 - **PKU-Smart-Sensor**: Created a Point-of-Care system for monitoring phenylalanine levels in PKU patients. Developed the prototype of the React Native app for home-testing of phenylalanine levels.
 - **SICILYSEEDS**: Advanced the use of edible wild plants from Sicily. Developed the IoT platform and application for controlling the micro growing chamber.
