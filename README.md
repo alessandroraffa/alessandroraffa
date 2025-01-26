@@ -1,10 +1,10 @@
-## Hello, I'm Alessandro 👋
+## Alessandro Raffa
 
-### Quick Facts About Me
+### Quick Facts
 
-**📍 Location:** Hailing from the beautiful Palermo, Sicily, my career spans several Italian cities and includes international escapades in Europe, USA, North Africa and the Middle East.
+**📍 Location:** Based in the picturesque city of Palermo, Sicily, my professional journey has taken me across various Italian cities and internationally to Europe, the USA, North Africa, and the Middle East.
 
-**💼 Career:** From crafting static HTML pages in 2001 to my former role as Infobiotech's co-founder and CIO, I've navigated various roles and challenges in the software and technology sectors.
+**💼 Career:** From crafting static HTML pages in 2001 to co-founding and serving as CIO at Infobiotech, my journey in the software and technology sectors has been diverse and enriching. Currently, as a self-employed IT Consultant and Senior Software Architect and Developer, I lead software development projects, oversee software architecture, and implement innovative technology solutions for clients.
 
 **👨‍👩‍👧 Family:** Striving to be a good husband and father, son and brother, I find daily learning and growth in my family experiences.
 
@@ -20,7 +20,9 @@
 
 ### Professional Overview
 
-- **Infobiotech (Software CTO & Co-Founder):** Guided Infobiotech through the evolving landscape of software, my role was to set a foundation for software innovation and growth. As a founder, I initiated the journey, then, as part of a dynamic team, we collectively steered the company towards new horizons. My focus was on leveraging software engineering to drive groundbreaking research, development and manufacturing.
+- **IT Consultant and Senior Software Architect and Developer (Self-employed):** I am currently leading software development projects, overseeing software architecture, system design, and innovative technology implementations. My focus is on implementing cutting-edge technologies and solutions for clients, ensuring adherence to industry standards and best practices. I am also an advocate for generative AI and its potential to drive innovation in software development and agent-based systems.
+
+- **Infobiotech (Software CTO & Co-Founder):** Guided the company through the evolving landscape of software, my role was to set a foundation for software innovation and growth. As a founder, I initiated the journey, then, as part of a dynamic team, we collectively steered the company towards new horizons. My focus was on leveraging software engineering to drive groundbreaking research, development and manufacturing.
 
 - **Founder, CEO & CTO:** Spearheaded various initiatives and companies, focusing on sustainable web practices, integrating advanced software technologies, and optimizing web standards. My role has always been at the intersection of technology leadership and entrepreneurial innovation.
 
@@ -42,13 +44,13 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 ### Work Experience
 
-#### Self-employed IT Consultat and Software Architect, Ganuary 2025 - current
+#### Self-employed IT Consultant and Software Architect and Developer, January 2025 - current
 
-- Leading software development projects and managing technical teams
+- Leading software development projects
 - Overseeing software architecture, system design, and innovative technology implementations
 - Implementing innovative technologies and solutions for clients
 - Ensuring adherence to industry standards and best practices
-- Generative AI advocate for the implementation of innovative software solutions
+- Generative AI advocate for the implementation of innovative software solutions and agent-based systems
 
 #### Infobiotech (Palermo, Sicily, Italy), February 2014 - December 2024 (10 yrs)
 
@@ -348,7 +350,7 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **Web Application Frameworks (2013-2022):** I started developing my own web application frameworks, enabling the creation of more efficient and scalable web applications. This includes a project for a biodiversity data bank in 2014, where I was able to modularize the code and create dynamic custom features and datasets.
 
-- **Co-founder of a Startup (2014):** I co-founded a startup, focusing primarily on the technological innovation and development aspects of the business. My role involved extensive research and application of cutting-edge technologies, driving the technical vision of the company. I dedicated myself to developing robust and scalable software solutions, ensuring they aligned with our strategic goals. This period was marked by significant technical growth and learning, as I navigated the challenges of bringing novel ideas to fruition in a dynamic startup environment. This experience not only enhanced my technical skills but also deepened my understanding of the practical applications of emerging technologies in a real-world setting.
+- **Co-founder of a Startup (2014):** I co-founded a startup (infobiotech), focusing primarily on the technological innovation and development aspects of the business. My role involved extensive research and application of cutting-edge technologies, driving the technical vision of the company. I dedicated myself to developing robust and scalable software solutions, ensuring they aligned with our strategic goals. This period was marked by significant technical growth and learning, as I navigated the challenges of bringing novel ideas to fruition in a dynamic startup environment. This experience not only enhanced my technical skills but also deepened my understanding of the practical applications of emerging technologies in a real-world setting.
 
 - **Node.js, Google Cloud Platform, and NoSQL Databases (2015-Present):** My career since 2015 has been significantly shaped by embracing scalable, cloud-based solutions. The use of these technologies has been instrumental in enhancing the performance and scalability of my projects.
 
