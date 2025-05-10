@@ -157,12 +157,15 @@ Feel free to reach out for collaborations or discussions on software and technol
 - **Programming Languages:**
   - TypeScript (typed superset of JavaScript)
   - ECMAScript (core language for web development)
+  - Bash (Unix shell scripting)
 - **IDEs:**
   - Visual Studio Code (versatile code editor for various programming languages)
 - **Coding Assistance Tools:**
   - GitHub Copilot (AI-powered code completion tool)
+  - Cline (AI-powered code generation and command line tool)
 - **Package Managers:**
   - Yarn (fast, reliable, and secure dependency management)
+  - pnpm (fast, disk space-efficient package manager)
   - npm (package manager for JavaScript)
 - **Version Control Systems:**
   - Git (distributed version control system)
@@ -189,7 +192,7 @@ Feel free to reach out for collaborations or discussions on software and technol
   - MongoDB (NoSQL database)
 - **State Management Libraries:**
   - Zustand (simple and fast global state manager)
-  - Redux and Redux Toolkit (state management for JavaScript applications)
+  - Redux and Redux Toolkit (state management for applications)
 - **Authentication & Security:**
   - Auth0, Kinde and Firebase Authentication (identity and access for web and mobile apps)
   - JWT (JSON Web Tokens for secure data transmission)
@@ -242,15 +245,15 @@ Feel free to reach out for collaborations or discussions on software and technol
   - Heroku (cloud platform for hosting applications)
   - Firebase Hosting (web hosting service)
 - **Automation Tools:**
-  - Puppeteer (for web scraping and testing)
+  - Puppeteer (for web scraping, testing and automation)
 - **Machine Learning and Data Science Tools:**
   - Pinecone and Vectra (vector database for machine learning)
   - Ollama
 - **Generative AI and AI Technologies:**
   - OpenAI API (GPT and Embeddings for advanced language processing and applications)
   - Anthropic API
-  - Midjourney, FLUX 1.1 Pro, Ideogram, DALL-E (AI-driven image generation and design conceptualization)
-  - ChatGPT, Claude.ai (conversational AI applications)
+  - Midjourney, FLUX 1.1 Pro, Ideogram, Sora (AI-driven image/video generation and design conceptualization)
+  - ChatGPT, Claude, Gemini, DeepSeek, Grok (conversational AI applications)
   - Perplexity (AI-driven text generation and search engine)
   - Suno (AI-driven music composition and generation)
 
@@ -344,17 +347,17 @@ Feel free to reach out for collaborations or discussions on software and technol
 
 - **Biotech and Manufacturing Execution Systems (2006-2012):** During this period, I was involved in designing an ISO 13485 compliant Manufacturing Execution System (MES) for a biotech company. This project required me to navigate both the technical and regulatory aspects of the biotech sector, integrating my software development skills with the specific needs of the industry working side by side with biologists.
 
-- **IT Administrator, System Integrator, and Technical Specialist (2008-2014):** My roles during these years included responsibilities in IT administration, system integration, and providing technical support. This experience enhanced my understanding of comprehensive IT infrastructure and the integration of various technologies within it.
+- **IT Administrator, System Integrator, and Technical Specialist (2007-2014):** My roles during these years included responsibilities in IT administration, system integration, and providing technical support. This experience enhanced my understanding of comprehensive IT infrastructure and the integration of various technologies within it.
 
-- **Unix-like Operating Systems (2009-Present):** Until 2009, my primary operating system was Windows. However, I began working with other operating systems, specifically Ubuntu Server (used both as a local and hosting platform) and macOS (as both a personal and professional working environment). These operating systems provided me with a more robust and secure environment for software development and deployment.
+- **Unix-like Operating Systems (2009-Present):** Until 2009, my primary operating system was Windows. However, I began working with other operating systems, specifically Ubuntu Server (used both as a local and hosting platform) and Mac OSX / macOS (as both a personal and professional working environment). These operating systems provided me with a more robust and secure environment for software development and deployment.
 
-- **Web Application Frameworks (2013-2022):** I started developing my own web application frameworks, enabling the creation of more efficient and scalable web applications. This includes a project for a biodiversity data bank in 2014, where I was able to modularize the code and create dynamic custom features and datasets.
+- **Web Application Frameworks (2013-2021):** I started developing my own web application frameworks, enabling the creation of more efficient and scalable web applications. This includes a project for a biodiversity data bank in 2014, where I was able to modularize the code and create dynamic custom features and datasets.
 
-- **Co-founder of a Startup (2014):** I co-founded a startup (infobiotech), focusing primarily on the technological innovation and development aspects of the business. My role involved extensive research and application of cutting-edge technologies, driving the technical vision of the company. I dedicated myself to developing robust and scalable software solutions, ensuring they aligned with our strategic goals. This period was marked by significant technical growth and learning, as I navigated the challenges of bringing novel ideas to fruition in a dynamic startup environment. This experience not only enhanced my technical skills but also deepened my understanding of the practical applications of emerging technologies in a real-world setting.
+- **Co-founder of a Startup (2014):** I co-founded a startup (infobiotech), focusing primarily on the technological innovation and development aspects of the business. My role involved extensive research and application of cutting-edge technologies, driving the software technical vision of the company. I dedicated myself to developing robust and scalable software solutions, ensuring they aligned with our strategic goals. This period was marked by significant technical growth and learning, as I navigated the challenges of bringing novel ideas to fruition in a dynamic startup environment. This experience not only enhanced my technical skills but also deepened my understanding of the practical applications of emerging technologies in a real-world setting.
 
 - **Node.js, Google Cloud Platform, and NoSQL Databases (2015-Present):** My career since 2015 has been significantly shaped by embracing scalable, cloud-based solutions. The use of these technologies has been instrumental in enhancing the performance and scalability of my projects.
 
-- **React and React Native (2016-Present):** Since 2016, I have been immersed in modern front-end development using React for dynamic, responsive user interfaces and React Native for cross-platform mobile applications.
+- **React and React Native (2016-2024):** Since 2016, I have been immersed in modern front-end development using React for dynamic, responsive user interfaces and React Native for cross-platform mobile applications.
 
 - **IoT and WebSocket (2019-Present):** I started exploring the Internet of Things (IoT) and WebSocket technologies, enabling the creation of real-time, bidirectional, and efficient communication between servers and clients.
 
